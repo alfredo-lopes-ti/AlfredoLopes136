@@ -77,6 +77,8 @@ Currently expanding into **Data Science & Artificial Intelligence**, combining m
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoLopes136&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=AlfredoLopes136&theme=tokyonight&hide_border=true&locale=pt_br)
+
 </div>
 
 ---
