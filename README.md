@@ -73,11 +73,11 @@ Currently expanding into **Data Science & Artificial Intelligence**, combining m
 
 <div align="center">
 
-![Alfredo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlfredoLopes136&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+<img src="https://github-readme-stats.vercel.app/api?username=AlfredoLopes136&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoLopes136&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AlfredoLopes136&theme=tokyonight&hide_border=true&locale=pt_br)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AlfredoLopes136&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
