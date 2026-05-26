@@ -73,8 +73,12 @@ Currently expanding into **Data Science & Artificial Intelligence**, combining m
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/AlfredoLopes136?style=for-the-badge&theme=dark)](https://github.com/AlfredoLopes136)
-[![GitHub stars](https://img.shields.io/github/stars/AlfredoLopes136?style=for-the-badge)](https://github.com/AlfredoLopes136)
+![Alfredo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfredolopes136&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredolopes136&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+[![GitHub followers](https://img.shields.io/github/followers/alfredolopes136?style=for-the-badge)](https://github.com/alfredolopes136)
+[![GitHub stars](https://img.shields.io/github/stars/alfredolopes136?style=for-the-badge)](https://github.com/alfredolopes136)
 
 </div>
 
