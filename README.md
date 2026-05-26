@@ -22,7 +22,7 @@ Currently expanding into **Data Science & Artificial Intelligence**, combining m
 - 🌐 **Front-End Developer** — HTML, CSS, JavaScript, React
 - 📚 **IT Instructor** — taught from basic computing to Python and networks
 - 📊 **Currently studying** Data Science & AI (Estácio EAD)
-- 🇺🇸 **Advanced English** — ready for international projects
+- 🗣️ **Advanced English** — ready for international projects
 - 📍 Based in **Blumenau, SC, Brazil** — available remotely worldwide
 
 ---
@@ -53,7 +53,7 @@ Currently expanding into **Data Science & Artificial Intelligence**, combining m
 <div>
   <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
   <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-plain.svg" />
-  <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+  <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
 </div>
 <br/><br/>
@@ -73,9 +73,9 @@ Currently expanding into **Data Science & Artificial Intelligence**, combining m
 
 <div align="center">
 
-![Alfredo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlfredoLopes136&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Alfredo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlfredoLopes136&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoLopes136&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoLopes136&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
